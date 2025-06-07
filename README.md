@@ -22,7 +22,7 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
 ### State Management
 - BLoC / Cubit
 - Provider
-- GetX (as needed)
+  
 
 ### Backend Integration
 - RESTful API Integration (Dio / http)
@@ -42,16 +42,11 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
 
 ---
 
-## 🌟 Featured Projects
-- ✨ [Project Name 1](link): Short description of what it does.
-- ✨ [Project Name 2](link): Short description of what it does.
-
----
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Maha Abdullah](https://www.linkedin.com/in/maha-abdullah-1478a92a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📧 Email: mahaabdull87@gmail.com  
+- 💼 LinkedIn: [Maha Abdullah]([https://www.linkedin.com/in/maha-abdullah](https://www.linkedin.com/in/maha-alattas-1478a92a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 - 💻 GitHub: [@mahaabdulla](https://github.com/mahaabdulla)
 
 ---
