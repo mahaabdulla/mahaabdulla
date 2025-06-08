@@ -38,7 +38,7 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
 - Git & GitHub
 - Figma to Flutter (UI Implementation)
 - Localization (i18n / l10n)
-- Local Storage (Hive / SharedPreferences)
+- Local Storage (Sqlite / SharedPreferences)
 
 ---
 
