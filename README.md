@@ -32,7 +32,7 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
 ### Architecture & Best Practices
 - Clean Architecture
 - SOLID Principles
-- Design Patterns (Singleton, Factory, Repository)
+- Design Patterns (Singleton, Repository)
 
 ### Tools & Technologies
 - Git & GitHub
