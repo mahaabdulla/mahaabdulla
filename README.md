@@ -15,9 +15,8 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
 ## 🛠️ Skills
 
 ### Flutter & Dart
-- Stateless & Stateful Widgets
 - Asynchronous Programming (Futures, Streams)
-- Responsive Design (MediaQuery, `flutter_screenutil`)
+- Responsive Design
 
 ### State Management
 - BLoC / Cubit
@@ -25,9 +24,9 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
   
 
 ### Backend Integration
-- RESTful API Integration (Dio / http)
+- RESTful API Integration
 - JSON Serialization & Parsing
-- Firebase (Auth, Firestore, FCM)
+- Firebase
 
 ### Architecture & Best Practices
 - Clean Architecture
@@ -36,9 +35,11 @@ I'm a **Flutter & Dart mobile developer** passionate about building beautiful, f
 
 ### Tools & Technologies
 - Git & GitHub
-- Figma to Flutter (UI Implementation)
-- Localization (i18n / l10n)
+- Figma
+- Flutter
+- Localization
 - Local Storage (Sqlite / SharedPreferences)
+- Api integration
 
 ---
 
