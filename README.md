@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Maha
 
-I'm a **Flutter & Dart mobile developer** passionate about building beautiful, fast, and scalable cross-platform apps for Android and iOS.
+I'm a **Flutter mobile developer** passionate about building beautiful, fast, and scalable cross-platform apps for Android and iOS.
 
 ---
 
