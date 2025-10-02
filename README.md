@@ -6,9 +6,8 @@ I'm a **Flutter mobile developer** passionate about building beautiful, fast, an
 
 ## 💡 About Me
 - 📱 I specialize in creating responsive and user-friendly mobile applications
-- 🧠 I follow **SOLID principles** and clean architecture for maintainable code
-- 🚀 Always learning and staying up-to-date with the latest Flutter technologies
-- 🔗 I build full-featured apps using Flutter, Firebase, and REST APIs
+-  Always learning and staying up-to-date with the latest Flutter technologies
+-  I build full-featured apps using Flutter, Firebase, and REST APIs
 
 ---
 
