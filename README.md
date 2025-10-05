@@ -24,13 +24,6 @@ I'm a **Flutter mobile developer** passionate about building beautiful, fast, an
 
 ### Backend Integration
 - RESTful API Integration
-- JSON Serialization & Parsing
-- Firebase
-
-### Architecture & Best Practices
-- Clean Architecture
-- SOLID Principles
-- Design Patterns (Singleton, Repository)
 
 ### Tools & Technologies
 - Git & GitHub
