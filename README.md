@@ -11,7 +11,7 @@ I'm a **Flutter mobile developer** passionate about building beautiful, fast, an
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Flutter & Dart
 - Asynchronous Programming (Futures, Streams)
